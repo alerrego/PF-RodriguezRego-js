@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400;600&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+
+/*----HEADER---*/
+
+.navbar{
+    background-color: rgb(34, 30, 34);
+}
+.navbar a{
+    color: white;
+}
+/*----MAIN-INDEX----*/
+
+.tarjetas-ingresos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgb(29, 45, 68);
+}
+
+.tarjetas-ingresos div{
+    height: 400px;
+    padding: 5px;
+    margin: 10px;
+    padding: 15px;
+}
+
+.tarjetas-ingresos div img{
+    height: 200px;
+    width: 250px;
+}
+
+.tarjetas-ingresos div div{
+    font-size: 20px;
+    text-align: left;
+    height: 210px;
+}
+
+.resultado{
+    font-size: 25px;
+    text-align: center;
+    background-color: rgb(189, 35, 35)
+}
+
+.cant{
+    display: flex;
+}
+
+.cant button{
+    margin: 10px;
+}
+
+.cant p{
+   text-align: center;
+   margin-top: 10px;
+}
+
+.btn_borrar{
+    display: flex;
+    justify-content: right;
+}
+
+.modal-content{
+    font-size: 20px;
+}
+
+.modal-header{
+    background-color: rgb(34, 30, 34);
+    color: white;
+}
+.modal-header button{
+    background-color: white;
+}
+.modal-footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(34, 30, 34);
+    border-radius: 0;
+}
+.total{
+    background-color: rgb(34, 30, 34);
+}
+
+/*---FOOTER---*/
+footer{
+    text-align: center;
+    background-color: rgb(34, 30, 34);
+    height: 35px;
+    color: white;
+    padding: 5;
+}

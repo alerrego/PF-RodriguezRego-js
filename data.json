@@ -1,0 +1,9 @@
+
+[{"id": 1,"marca": "NIKE","modelo": "AIRFORCE1","talle": [40],"precio": 70000,"cantidad": 1,"img": "./img/air-force1.JPG"},
+  {"id": 2,"marca": "ADIDAS","modelo": "YEZZY700-v2","talle": [42],"precio": 150000,"cantidad": 1,"img":"./img/yezzy-700v3.jpg"},
+  {"id": 3,"marca": "NIKE","modelo": "JORDAN1","talle": [39],"precio": 105000,"cantidad": 1,"img":"./img/jordan1-mid-taxi.JPG"},
+  {"id": 4,"marca": "NEWBALANCE","modelo": "NB550","talle": [41],"precio": 135000,"cantidad": 1,"img":"./img/NB550WBG.png"},
+  {"id": 5,"marca": "ADIDAS","modelo": "FORUM","talle": [37],"precio": 160000,"cantidad": 1,"img":"./img/adidas-forum-455.JPG"},
+  {"id": 6,"marca": "NIKE","modelo": "AIRMAX1","talle": [40],"precio": 145000,"cantidad": 1,"img":"./img/nike-airmax1patta-waves-345.JPG"},
+  {"id": 7,"marca": "NIKE","modelo": "DUNK-LOW","talle": [40],"precio": 120000,"cantidad": 1,"img":"./img/nike-dunklow-275.JPG"},
+  {"id": 8,"marca": "ADIDAS","modelo": "ADI2000-Yu-Gi-Oh!","talle": [40],"precio": 130000,"cantidad": 1,"img":"./img/adidas-ADI2000-Yu-Gi-Oh!-350.JPG"}]
